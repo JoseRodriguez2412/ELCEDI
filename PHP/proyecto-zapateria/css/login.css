@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    padding: 90px 20px 0;
+}
+
+.nav-propieties {
+    background-color: #754106;
+    height: 80px;
+    padding: 0 12px;
+}
+
+.font-link {
+    color: white;
+    font-size: 18px;
+}
+
+.bg-footer {
+    position: absolute;
+    background-color: #754106;
+    color: white;
+    height: 50px;
+    margin-top: 30px;
+}
+
+.image-bg-login {
+    background-image: url("../imagenes/tenis2_g.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.image-bg-register {
+    background-image: url("../imagenes/zapatos81.jpg");
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.border-color {
+    border: 2px solid #754106;
+}
+
+.icons-redes {
+    font-size: 30px;
+}
+
+
