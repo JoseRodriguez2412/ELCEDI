@@ -1,0 +1,10 @@
+E:\UPP\3er Cuatrimestre\Programación Visual\Restaurante_RZJG\Restaurante_RZJG\bin\Debug\Restaurante_RZJG.exe.config
+E:\UPP\3er Cuatrimestre\Programación Visual\Restaurante_RZJG\Restaurante_RZJG\bin\Debug\Restaurante_RZJG.exe
+E:\UPP\3er Cuatrimestre\Programación Visual\Restaurante_RZJG\Restaurante_RZJG\bin\Debug\Restaurante_RZJG.pdb
+E:\UPP\3er Cuatrimestre\Programación Visual\Restaurante_RZJG\Restaurante_RZJG\obj\Debug\Restaurante_RZJG.csprojAssemblyReference.cache
+E:\UPP\3er Cuatrimestre\Programación Visual\Restaurante_RZJG\Restaurante_RZJG\obj\Debug\Restaurante_RZJG.Form1.resources
+E:\UPP\3er Cuatrimestre\Programación Visual\Restaurante_RZJG\Restaurante_RZJG\obj\Debug\Restaurante_RZJG.Properties.Resources.resources
+E:\UPP\3er Cuatrimestre\Programación Visual\Restaurante_RZJG\Restaurante_RZJG\obj\Debug\Restaurante_RZJG.csproj.GenerateResource.cache
+E:\UPP\3er Cuatrimestre\Programación Visual\Restaurante_RZJG\Restaurante_RZJG\obj\Debug\Restaurante_RZJG.csproj.CoreCompileInputs.cache
+E:\UPP\3er Cuatrimestre\Programación Visual\Restaurante_RZJG\Restaurante_RZJG\obj\Debug\Restaurante_RZJG.exe
+E:\UPP\3er Cuatrimestre\Programación Visual\Restaurante_RZJG\Restaurante_RZJG\obj\Debug\Restaurante_RZJG.pdb
